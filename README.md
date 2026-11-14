@@ -65,5 +65,12 @@ exactly why footprinting is so powerful and so hard to detect. The more an organ
 leaks, the easier every later stage of the attack becomes. This is also why defenders
 run the same tools on themselves: to see what an attacker would see, and to reduce it.
 
+WEEK 2 PM5
+
+Zenmap Network Scanning (Practice Lab)
+
+<img width="1647" height="878" alt="Screenshot 2026-11-14 011944" src="https://github.com/user-attachments/assets/a58e8b29-99ea-4b10-a845-f94ffe197f05" />
+
+<img width="1647" height="876" alt="Screenshot 2026-11-14 012105" src="https://github.com/user-attachments/assets/87b3ab6d-68b9-48c4-9f25-063c0a4a9063" />
 
 
